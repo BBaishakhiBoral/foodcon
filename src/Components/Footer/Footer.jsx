@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="flex  items-center space-x-5">
           <h1 className="mb-1">Follow Me</h1>
           <div className="flex space-x-3 text-white">
-            <Link to="https://github.com/rafik-786">
+            <Link to="https://github.com/BBaishakhiBoral">
               <AiFillGithub className="hover:text-yellow-300 hover:cursor-pointer" />
             </Link>
             <Link to="">
